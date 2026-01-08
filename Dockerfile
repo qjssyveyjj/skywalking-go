@@ -1,0 +1,1 @@
+FROM apache/skywalking-go:0.5.0-go1.23
